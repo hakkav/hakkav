@@ -1,7 +1,7 @@
 
 ### Hi, I’m Hakkav.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce magna nisi, molestie a metus at, [consectetur](https://github.com/charliermarsh/ruff) pellentesque ipsum. Mauris at urna vitae ligula porttitor auctor. Pellentesque placerat sagittis dui sit amet faucibus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce magna nisi, molestie a metus at, [consectetur](https://github.com/) pellentesque ipsum. Mauris at urna vitae ligula porttitor auctor. Pellentesque placerat sagittis dui sit amet faucibus.
 
 Have a nice day!
 
